@@ -23,6 +23,8 @@ Feature: Login Feature
 
     Examples:
 
+
+      Duke
       | userName      | password     |
       | "mng554366"   | "gebUjurX"   |
       | "mng554366X"  | "gebUjur"    |
